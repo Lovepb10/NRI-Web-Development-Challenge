@@ -1,8 +1,8 @@
-/****************************************
-	NRI - Web Development Challenge 
-	Design By lovepreet Singh
-	Date: 23 Jan, 2020
-****************************************/
+
+#NRI - Web Development Challenge 
+#Design By lovepreet Singh
+#Date: 23 Jan, 2020
+
 Requirements:
 	1. Install Composer and Laravel
 	2. Database Set up:-
